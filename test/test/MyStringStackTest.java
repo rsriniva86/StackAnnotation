@@ -12,7 +12,6 @@ import org.junit.Test;
 
 import stack.MyStringStack;
 
-
 public class MyStringStackTest extends TestCase {
 	private String s1, s2;
 	
