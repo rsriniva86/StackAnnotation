@@ -1,17 +1,12 @@
 package test;
 
 import java.util.NoSuchElementException;
-
 import junit.framework.TestCase;
 import junit.framework.TestSuite;
-
-
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;
-
 import stack.MyStringStack;
-
 
 public class MyStringStackTest extends TestCase {
 	private String s1, s2;
